@@ -134,6 +134,8 @@ Run the lightweight loss tests (no pretrained-model download required):
 python -m tests.test_losses -v
 ```
 
+The codes for MOSI (OOD) and SIMS-v2 will be released soon.
+
 ## Citation
 
 If you find this code useful, please cite our paper:
