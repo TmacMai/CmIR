@@ -8,7 +8,7 @@ Official PyTorch implementation of the ACL 2026 paper:
 
 CmIR learns robust multimodal representations from a **causal inference** perspective. Each modality is disentangled into an **invariant (causal)** component and an **environment-specific (spurious)** component, so that prediction relies only on the causal features that remain stable across environments.
 
-![CmIR model pipeline](assets/model_pipeline.png)
+![CmIR model pipeline](assets/framework.png)
 
 ## Method
 
